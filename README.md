@@ -33,7 +33,7 @@
 
 [![다음](https://t1.daumcdn.net/daumtop_chanel/op/20200723055344399.png)](https://www.daum.net)
 
-![가방](./asset/googlelogo_color_272x92dp)
+![가방](./asset/googlelogo_color_272x92dp.png)
 
 ### 표(table)
 |이름|성별|주소|
